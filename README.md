@@ -1,7 +1,8 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Aralık Ben, Mayıs Sen</title>
+  <title>Aralık Ben, 
+    Mayıs Sen</title>
   <style>
     body {
       background-color: darkblue;
