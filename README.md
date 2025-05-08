@@ -7,7 +7,7 @@
 <hr>
 <center><h1><span class="bold">"Aralık Ben, Mayıs Sen"</span></h1></center>
 <hr>
-<h3>Sen Mayıs’ta doğmuşsun
+<h1>Sen Mayıs’ta doğmuşsun</h1>
 <p>Sen Mayıs’ta doğmuşsun<br>
   Çiçeklerin tam ortasında,<br>
   Gökyüzünün mavi olduğu günlerde,<br>
@@ -49,7 +49,6 @@
   Senin gülüşün hâlâ Mayıs gibi belki,<br>
   Ama ben o günden beri<br>
   Kendi içimde kışa döndüm yeniden.</p>
-  </h3>
   <hr>
 </body>
 </html>
