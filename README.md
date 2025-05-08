@@ -3,7 +3,9 @@
 <head>
 <title> Hatirla </title>
 </head>
-<body bgcolor="Darkblue"text="yellow">
+body{ background-color:dark_blue;
+  color:yellow;
+  font-family:Arial, sans-serif;}
 <hr>
 <center><h1><span class="bold">"Aralık Ben, Mayıs Sen"</span></h1></center>
 <hr>
